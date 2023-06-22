@@ -648,21 +648,3 @@ def analyse_timestep():
     
 analyse_timestep()
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
